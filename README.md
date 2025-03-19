@@ -9,6 +9,9 @@ You are required to develop a gem hunter game using Conjunctive Normal Form (CNF
 - Each tile with a number represents the number of traps surrounding it (Number from 1 - 9).
 - Your task is to formulate the problem as CNF constraints and solve it using logic.
 
+   **Example Puzzle (Figure 1):**
+   ![Insert image here](image.jpg)
+  
 ### Steps to Solve the Problem:
 1. Assign a logical variable for each cell in the grid:
    - **True (T):** The cell contains a trap.
@@ -42,8 +45,6 @@ You are required to develop a gem hunter game using Conjunctive Normal Form (CNF
    T, T, 2, G
    T, 3, 1, G
 
-**Example Puzzle (Figure 1):**
-![Insert image here](path/to/image.png)
 
 2. **Video Demo**
 - A recorded demonstration of running the tests and showcasing the program results.
@@ -75,4 +76,4 @@ You are required to develop a gem hunter game using Conjunctive Normal Form (CNF
 - This is an **individual** exercise.
 - The report must estimate the **completion level** for each requirement.
 - AI tools are **not restricted**, but must be used **wisely**. Additional oral interviews may be conducted.
-- **❗ Plagiarism or academic dishonesty (copying from external sources without citation, fabricating data, submitting non-original work, or similarity over 70% with another submission) will result in ZERO points for the course grade.**
+- **<span style="color:red">Plagiarism or academic dishonesty (copying from external sources without citation, fabricating data, submitting non-original work, or similarity over 70% with another submission) will result in ZERO points for the course grade.</span**
