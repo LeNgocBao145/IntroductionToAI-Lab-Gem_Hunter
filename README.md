@@ -9,7 +9,7 @@ You are required to develop a gem hunter game using Conjunctive Normal Form (CNF
 - Each tile with a number represents the number of traps surrounding it (Number from 1 - 9).
 - Your task is to formulate the problem as CNF constraints and solve it using logic.
 
-   **Example Puzzle (Figure 1):**
+   **Figure 1: Example of gem hunter puzzle**
    ![Insert image here](image.jpg)
   
 ### Steps to Solve the Problem:
