@@ -76,4 +76,6 @@ You are required to develop a gem hunter game using Conjunctive Normal Form (CNF
 - This is an **individual** exercise.
 - The report must estimate the **completion level** for each requirement.
 - AI tools are **not restricted**, but must be used **wisely**. Additional oral interviews may be conducted.
-- **<span style="color:red">Plagiarism or academic dishonesty (copying from external sources without citation, fabricating data, submitting non-original work, or similarity over 70% with another submission) will result in ZERO points for the course grade.</span**
+<span style="color: red;">Plagiarism or academic dishonesty (copying from external sources without citation, fabricating data, submitting non-original work, or similarity over 70% with another submission) will result in ZERO points for the course grade</span>
+
+
